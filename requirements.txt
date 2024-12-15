@@ -1,0 +1,4 @@
+Flask==2.2.3
+selenium==4.7.2
+webdriver==3.8.4
+python-dotenv
